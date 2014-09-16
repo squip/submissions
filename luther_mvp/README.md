@@ -1,6 +1,6 @@
 ##Movie Data Check-in 
 
-![](./img/figure_1.png)
+![](./figure_1.png)
 
 I used a linear regression model with one feature to describe the Total Box Office Gross of a movie remake as a function of the Total Box Office Gross of the Original Movie. 
 
