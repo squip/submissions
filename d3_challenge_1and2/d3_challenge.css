@@ -1,0 +1,35 @@
+body {
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+  color:#777777;
+}
+
+circle.svg_corners {
+  stroke:brown;
+  stroke-width:3px;
+  fill:none;
+}
+
+circle.g_corners {
+  stroke:teal;
+  stroke-width:3px;
+  fill:none;
+}
+
+.axis path, 
+.axis line {
+    fill:none;
+    stroke:#777777;
+}
+
+.axis {
+    font-size:12px;
+}
+
+div.challenge div {
+    margin-left:20px;
+    margin-bottom:20px;
+}
+
+circle.scatter {
+    fill:green;
+}
