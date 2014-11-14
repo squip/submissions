@@ -1,0 +1,137 @@
+<meta charset="utf-8">
+<head>
+<div style="padding-left:80px;padding-right:80px;padding-top:10px;">
+ <div class="page-header">
+  <h1>RadioScribe <small>Explore the most dicussed topics on KCBS by...</small></h1>
+  <ul class="nav nav-pills" role="tablist">
+  <li role="presentation" ><a href="/feed">Live Feed</a></li>
+  <li role="presentation" class="{{pill_class}}"><a href="/minute">Last 5 Minutes</a></li>
+  <li role="presentation" ><a href="/hour">Last Hour</a></li>
+  <li role="presentation" ><a href="/day">Last 24 Hours</a></li>
+</ul>
+</div>
+<!--  {% if pills %}
+   <ul class="nav nav-pills" role="tablist">
+ {% for k, v in pills %}
+ <li role="presentation" ><a href="{{v}}">{{k}}</a></li>
+ {% endfor %}
+  </ul>
+  {% endif %} -->
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="/static/css/bootstrap.min.css" rel="stylesheet" media="screen">
+  <link href="/static/css/bootstrap-responsive.css" rel="stylesheet">
+  <link href="/static/css/timeline.css" rel="stylesheet">
+
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="http://richhollis.github.io/vticker/downloads/jquery.vticker.min.js?v=1.15">
+</script>
+</head>
+<body>
+  <div id="explanation" class="explanation" style="margin-bottom:20px;"> </div>
+ 
+<style>
+.circle {
+font: 14px sans-serif;
+}
+.node {
+  font: 15px sans-serif;
+}
+a {
+    text-decoration: none !important;
+}
+</style>
+{% if content %}
+<div id="ticker" style="margin-left:70px;">
+<ul id="tickerlist">
+{% for c in content %}
+<li class="tick" style="font-size:15px;" >{{c}}</li>
+{% endfor %}
+</ul>
+</div>
+
+<script>
+
+var remove_n_ticks = 10;
+var ticker_window_size = 5;
+
+setInterval("reloadTranscription()", 40000);
+
+function reloadTranscription() {
+
+
+   jQuery.get('/data/textstream.txt', function(data) {
+     var lines = data.split("\n");
+    // $("#tickerlist").empty();
+     lines.forEach( function(line) {
+        $("#tickerlist").append('<li class="tick" >'+line+"</li>");
+     });
+     for (ii=0; ii< remove_n_ticks; ii++) {
+         $("#li.tick:first").remove();
+     }
+     
+    console.log(data);
+   });
+}
+
+</script>
+
+
+<script>
+$(function() {
+console.log('starting ticker');
+ $('#ticker').vTicker({showItems: ticker_window_size});
+});
+</script>
+
+{% elif data %}
+<script>
+var datafile = '/static/data/{{data[0]['file']}}';
+</script>
+<script src="/static/js/bubbles.js"></script>
+
+{% elif cluster_contents %}
+<div class="container" style="width:95%">
+        <h3 id="timeline">There were {{number_topics}} segments about <font style="color:steelblue">{{label}}</font> in the last {{window}}.</h1>
+    <ul class="timeline">
+{% for cluster in cluster_contents %}
+{% if loop.index is divisibleby 2 %}
+<li class="timeline-inverted">
+          <div class="timeline-panel">
+            <div class="timeline-body">
+              <p>{{cluster}}</p>
+            </div>
+          </div>
+        </li>
+{% else %}
+        <li>
+          <div class="timeline-panel">
+
+            <div class="timeline-body">
+              <p>{{cluster}}</p>
+            </div>
+          </div>
+        </li>
+{% endif %}
+{% endfor %}
+</ul>
+</div>
+
+{% endif %}
+
+</body>
+
+<!-- <div>
+<nav>
+  <ul class="pager">
+    <li><a href="day">Last 24 Hours</a></li>
+    <li><a href="index">Last Hour</a></li>
+    <li><a href="index">Last 5 Minutes</a></li>
+  </ul>
+</nav>
+</div> -->
+
+</div>
+
+</html>

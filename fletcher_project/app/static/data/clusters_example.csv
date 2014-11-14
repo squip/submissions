@@ -1,0 +1,110 @@
+cluster,label,value,cluster_size
+0 ,                       parking, 0.351335, 3
+0 ,                       station, 0.326623, 3
+0 ,                          park, 0.263501, 3
+0 ,               parking station, 0.263501, 3
+0 ,                agency parking, 0.175667, 3
+0 ,                  month agency, 0.175667, 3
+0 ,                        agency, 0.175667, 3
+0 ,                 station month, 0.175667, 3
+0 ,                         month, 0.149333, 3
+0 ,                    park visit, 0.0878337, 3
+
+1 ,                         music, 0.473218, 5
+1 ,                   music movie, 0.318138, 5
+1 ,                         movie, 0.318138, 5
+1 ,              personality wake, 0.225372, 5
+1 ,                   personality, 0.225372, 5
+1 ,                          wake, 0.225372, 5
+1 ,                    wake music, 0.212092, 5
+1 ,                          news, 0.175302, 5
+1 ,                   movie music, 0.159069, 5
+1 ,                    music news, 0.159069, 5
+
+2 ,                         night, 0.248489, 3
+2 ,                          game, 0.217399, 3
+2 ,                 night shutout, 0.194872, 3
+2 ,                     news home, 0.194872, 3
+2 ,                         coach, 0.194872, 3
+2 ,                          role, 0.194872, 3
+2 ,                     home game, 0.194872, 3
+2 ,                          noun, 0.194872, 3
+2 ,                       shutout, 0.194872, 3
+2 ,                  shutout noun, 0.194872, 3
+
+3 ,                       station, 0.262981, 3
+3 ,                          hour, 0.176799, 3
+3 ,                     satellite, 0.176799, 3
+3 ,                          crew, 0.176799, 3
+3 ,                         space, 0.176799, 3
+3 ,                   hour debris, 0.176799, 3
+3 ,              debris satellite, 0.176799, 3
+3 ,             satellite station, 0.176799, 3
+3 ,                    crew space, 0.176799, 3
+3 ,                      presence, 0.176799, 3
+
+4 ,                        policy, 0.299792, 3
+4 ,                         today, 0.224844, 3
+4 ,                          home, 0.167223, 3
+4 ,            treatment attorney, 0.149896, 3
+4 ,                          tent, 0.149896, 3
+4 ,                  day hospital, 0.149896, 3
+4 ,                          base, 0.149896, 3
+4 ,                       mission, 0.149896, 3
+4 ,                       earnest, 0.149896, 3
+4 ,                     spokesman, 0.149896, 3
+
+5 ,                          lane, 0.212362, 4
+5 ,                         right, 0.211947, 4
+5 ,                    right lane, 0.182049, 4
+5 ,                         truck, 0.182049, 4
+5 ,                         music, 0.159271, 4
+5 ,                           com, 0.159271, 4
+5 ,                     street ve, 0.142768, 4
+5 ,                        pickup, 0.142768, 4
+5 ,                        street, 0.142768, 4
+5 ,                         phone, 0.142768, 4
+
+6 ,                       traffic, 0.327984, 2
+6 ,                          kcbs, 0.261874, 2
+6 ,                       weather, 0.220499, 2
+6 ,                        battle, 0.220499, 2
+6 ,               traffic weather, 0.220499, 2
+6 ,                battle science, 0.220499, 2
+6 ,                  weather kcbs, 0.220499, 2
+6 ,                     kcbs kcbs, 0.220499, 2
+6 ,                       science, 0.220499, 2
+6 ,                    store rain, 0.11025, 2
+
+7 ,                          west, 0.228544, 1
+7 ,                       traffic, 0.199949, 1
+7 ,                         entry, 0.134423, 1
+7 ,                 traffic month, 0.134423, 1
+7 ,               life experience, 0.134423, 1
+7 ,          experience broadcast, 0.134423, 1
+7 ,                broadcast game, 0.134423, 1
+7 ,            game collaboration, 0.134423, 1
+7 ,          collaboration record, 0.134423, 1
+7 ,                  record event, 0.134423, 1
+
+8 ,                       cyclist, 0.317499, 4
+8 ,                           bay, 0.211666, 4
+8 ,                           use, 0.211666, 4
+8 ,                   personality, 0.179936, 4
+8 ,                      accident, 0.179936, 4
+8 ,                          lane, 0.157422, 4
+8 ,                          kcbs, 0.125692, 4
+8 ,                           mat, 0.105833, 4
+8 ,                   rig factory, 0.105833, 4
+8 ,                   cyclist rig, 0.105833, 4
+
+9 ,                          work, 0.24655, 2
+9 ,                         field, 0.24655, 2
+9 ,                      research, 0.24655, 2
+9 ,                         grant, 0.20959, 2
+9 ,                           way, 0.20959, 2
+9 ,                       lottery, 0.20959, 2
+9 ,                          kcbs, 0.146407, 2
+9 ,                 goal approach, 0.123275, 2
+9 ,             approach research, 0.123275, 2
+9 ,              research country, 0.123275, 2

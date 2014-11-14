@@ -1,0 +1,122 @@
+cluster,label,value,cluster_size
+
+0 ,                         month, 0.177687, 5
+0 ,                       college, 0.152231, 5
+0 ,                    evaluation, 0.152231, 5
+0 ,                   accrediting, 0.12483, 5
+0 ,                excess mileage, 0.114173, 5
+0 ,                        excess, 0.114173, 5
+0 ,                       mileage, 0.114173, 5
+0 ,                         cents, 0.114173, 5
+0 ,                    cents mile, 0.114173, 5
+0 ,                 mileage cents, 0.114173, 5
+
+1 ,                       student, 0.125969, 5
+1 ,                        struck, 0.125969, 5
+1 ,                          word, 0.125969, 5
+1 ,                           say, 0.121039, 5
+1 ,                           oil, 0.121039, 5
+1 ,                          year, 0.121039, 5
+1 ,                      year old, 0.115215, 5
+1 ,                           old, 0.115215, 5
+1 ,                        mexico, 0.094477, 5
+1 ,                        victim, 0.094477, 5
+
+2 ,                        cloudy, 0.27809, 12
+2 ,                           bay, 0.259571, 12
+2 ,                       traffic, 0.218014, 12
+2 ,                 partly cloudy, 0.198636, 12
+2 ,                        partly, 0.198636, 12
+2 ,                      tomorrow, 0.152682, 12
+2 ,                  temperatures, 0.145342, 12
+2 ,                          area, 0.144283, 12
+2 ,                     afternoon, 0.135717, 12
+2 ,                         coast, 0.109007, 12
+
+3 ,                    department, 0.148591, 4
+3 ,                        points, 0.135906, 4
+3 ,                        really, 0.10522, 4
+3 ,                       meeting, 0.0990607, 4
+3 ,           department purchase, 0.0990607, 4
+3 ,                 recipe points, 0.0990607, 4
+3 ,                           fed, 0.0990607, 4
+3 ,                        recipe, 0.0990607, 4
+3 ,                          half, 0.0990607, 4
+3 ,             purchase includes, 0.0990607, 4
+
+4 ,                       company, 0.280242, 5
+4 ,                          know, 0.196262, 5
+4 ,                           don, 0.154555, 5
+4 ,                     companies, 0.1532, 5
+4 ,                          need, 0.140121, 5
+4 ,                           way, 0.130842, 5
+4 ,                        likely, 0.130842, 5
+4 ,                         going, 0.123644, 5
+4 ,                        coming, 0.0927329, 5
+4 ,                        really, 0.0813626, 5
+
+5 ,                         water, 0.351127, 3
+5 ,                   proposition, 0.274215, 3
+5 ,                    california, 0.150483, 3
+5 ,                         brown, 0.132787, 3
+5 ,                      governor, 0.132787, 3
+5 ,                 turned corner, 0.109686, 3
+5 ,                  water supply, 0.109686, 3
+5 ,                        supply, 0.109686, 3
+5 ,                          save, 0.109686, 3
+5 ,                        corner, 0.109686, 3
+
+6 ,                         radio, 0.26969, 36
+6 ,                            24, 0.260111, 36
+6 ,                   interactive, 0.260111, 36
+6 ,                         music, 0.248957, 36
+6 ,                     radio com, 0.229524, 36
+6 ,                           com, 0.229524, 36
+6 ,                        sports, 0.224669, 36
+6 ,                24 interactive, 0.208089, 36
+6 ,           interactive network, 0.208089, 36
+6 ,                  network news, 0.208089, 36
+
+8 ,                      question, 0.193013, 2
+8 ,                        school, 0.155776, 2
+8 ,                         teens, 0.128675, 2
+8 ,                 stores houses, 0.128675, 2
+8 ,                 known tragedy, 0.128675, 2
+8 ,              tragedy produced, 0.128675, 2
+8 ,             community support, 0.128675, 2
+8 ,                       tragedy, 0.128675, 2
+8 ,                 street stores, 0.128675, 2
+8 ,                       worship, 0.128675, 2
+
+10 ,               refine policies, 0.139267, 3
+10 ,                     personnel, 0.139267, 3
+10 ,                      programs, 0.139267, 3
+10 ,                      policies, 0.139267, 3
+10 ,                        refine, 0.139267, 3
+10 ,                        levels, 0.139267, 3
+10 ,               experience data, 0.139267, 3
+10 ,                   data refine, 0.139267, 3
+10 ,             policies programs, 0.139267, 3
+10 ,                    experience, 0.127378, 3
+
+12 ,                           oil, 0.189703, 3
+12 ,                          deep, 0.164525, 3
+12 ,                   shoots like, 0.164525, 3
+12 ,               surface trapped, 0.164525, 3
+12 ,                        shoots, 0.164525, 3
+12 ,                           jet, 0.164525, 3
+12 ,                       trapped, 0.164525, 3
+12 ,                    jet shoots, 0.164525, 3
+12 ,                     ocean jet, 0.164525, 3
+12 ,                    deep ocean, 0.164525, 3
+
+14 ,              rapidly assessed, 0.212295, 2
+14 ,                       rapidly, 0.212295, 2
+14 ,                      assessed, 0.212295, 2
+14 ,                      symptoms, 0.181313, 2
+14 ,                     elections, 0.106148, 2
+14 ,            cautious returning, 0.106148, 2
+14 ,                    steve cast, 0.106148, 2
+14 ,                bowel symptoms, 0.106148, 2
+14 ,                  africa bowel, 0.106148, 2
+14 ,                 soldiers west, 0.106148, 2

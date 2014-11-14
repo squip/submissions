@@ -1,0 +1,299 @@
+ccollections
+defaultdict
+p0
+(c__builtin__
+list
+p1
+tp2
+Rp3
+cnumpy.core.multiarray
+scalar
+p4
+(cnumpy
+dtype
+p5
+(S'i8'
+p6
+I0
+I1
+tp7
+Rp8
+(I3
+S'<'
+p9
+NNNI-1
+I-1
+I0
+tp10
+bS'\x00\x00\x00\x00\x00\x00\x00\x00'
+p11
+tp12
+Rp13
+(lp14
+Vthe accrediting evaluation of City College of San Francisco was unfair and unlawful KCBS is Marcus Schaffer American Federation of Teachers at CCSF Alisa Messer who took issue with team member Peter Crabtree evaluating the school several evaluation team and the others with Peralta Community College ties have previously evaluated CCSF liabilities the judge trial is expected to last five days at California Superior Court in San Francisco Marcus Schaffer DBSK CBS News time 136 is returned to Mill Valley
+p15
+aVcheats for the Accrediting Commission pointed out Crabtree has been on several evaluation team and the others with Peralta Community College play the radio for recent videos best personality dragons how many of the AT&T radio. Com Porsche is returned to Mill Valley in our new state-of-the-art facility benign per month 36 month lease 7499 do it sign in 10000 miles per year excess mileage at 3 cents per mile amber peach
+p16
+aVreally it's better than customer service its customer care go to autoowners.com to locate an independent agent Spurrier excess mileage at 3 cents per mile amber P 2093 approval of above average credit reports of financial
+p17
+aVDean point underdogs after losing in Cleveland yesterday by 10 last night drew Brees five touchdown passes in the same 21. home win over Green Bay just a second regular season game in NFL history in which there were no plants the only other time in Buffalo Porsche is offering incredible 36 month leases on the 2014 Porsche Panamera 4 8 99 per month 6 month lease 7499 do it sign in 10000 miles per year excess mileage at 3 cents per mile can repeat 2093
+p18
+aVdrawings to determine whether an accrediting evaluation of San Francisco City College was unfair or unlawful until there's fever we have not seen any outbreaks we've not seen any spread that is from someone before they became ill for someone with suspected exposure the first and I believe most important from protecting the people of my state in our region and so I understand that she didn't want to be there she made that very clear from two main CBS News up date on Harley Carnes mean time public health doctors here in the bay Maria say if Ebola does surface in California they will apply what they've learned from containing tuberculosis
+p19
+asg4
+(g8
+S'\x01\x00\x00\x00\x00\x00\x00\x00'
+p20
+tp21
+Rp22
+(lp23
+Vcross the ground out in the country on the Big Island of making a little bit bigger as it goes KGMB TV reporter Milaca Lincoln nothing left on Wall Street the Dow picked up 12 points today Nasdaq gained 20 oil prices at $80 60 Seattle low price will take away the incentive for American producers to explore for oil at home the Gulf of Mexico roughly the size of Rhode Island this is CBS News h2o3 at the Bay Area's new station sunshine and temperatures in the sixties just about everywhere the shower sex
+p24
+aVoil exporter seemed nervous watching to see if a low price will take away the incentive for American producer chicago-based oil analyst Phil Flynn who believes gasoline prices may fall to $2 a gallon dan Raviv CBS News a new study says the BP oil rig blowouts 2010 left a bath ring of degraded soil pollution on the floor of the Gulf of Mexico roughly the size of Rhode Island CBS news station sunshine and temperatures for some reason for that kind of thing for tired terminal what happened cyclist was wearing a bike helmet and had a backpack so deputies assume is a student at one of the three nearby schools drugs and alcohol do not appear to be factors in this tragic collision
+p25
+aVthe 23-year-old victim was struck by a driver of a passing vehicle struck a parked car moments later after flings on felony hit and run in drunk driving charges with student 22-year-old salon and freeze we're just trying my hardest I think they've been planning for Civic Center has hosted concerts in sports broadcast before so officials know they can get up to 15 Naruto have the two screens showing the game everybody's walking with a family event with children please do not bring out I need to be able to provide for themselves and publicly they won't even say the word parade as in championship when they call the P word but this they will say cleaning as been going on in earnest hugely staff intensive
+p26
+aVthe team and continued on to Bubba Road witnesses were able to flag down the driver was shocked that he acts Sheriff's Office says there is a bike lane on McClellan I don't know how the truck buy Swiss Colorado bicycle school and for some reason for that kind of thing for tired terminal what happened cyclist was wearing a bike helmet and had a backpack so deputies assume he is a student at one of the three nearby schools drugs and alcohol do not appear to be fat in this tragic collision from the scene in Cupertino Matt Bigler KCBS day of grieving for members of the Delta one student on life support another behind bars call 911 it was 1 a.m. Sun busy frat row on South 10th Street just searched Heather Randall in the 23-year-old victim was struck by a driver vehicle struck a parked car moments later after fleeing the scene was booked into friends are turning to crowdsource funding to help the victims family financially the victim was at 60
+p27
+aVno concessions so everybody needs to be able to provide for themselves and publicly they won't even say the word parade as in championship when they call it the P word but this they will say cleaning it's been going on in earnest hugely staff intensive because we have the rest of the city to look after the same time in 2012 1 million people in Market Street for that year celebration aliquam quesadilla is a Fairfield woman is in custody charged killing a 3 year old girl and then fleeing their Bakersfield home from Mexico are back in Kern County federal officials say the third
+p28
+asg4
+(g8
+S'\x02\x00\x00\x00\x00\x00\x00\x00'
+p29
+tp30
+Rp31
+(lp32
+Vcamera roll on the radio for recent videos best personality music from the movie starting with his legend dragons South 880 Edisto little slow going from Stevens Creek down to the interchange jumping over to Fremont that's where we'll find Skyfire Sadie do it just as well UNIX update 138 on the traffic leaders KCBS sunshine around the bay area code tomorrow should be a little bit warmer with sunshine in Linden by the bay I was looking at temperatures rising a bit higher on Wednesday getting close to AT&T in neighborhoods Thursday partly cloudy and a few degrees cooler than as we head into
+p33
+aVInland Empire the bay I was looking at temperatures rising a bit higher on Wednesday getting close to AT&T in neighborhoods possibility of it traffic and weather together on the 8's on KCBS your 24 7 interactive network best personality wake up with Carson Daly radio.com rentals in San Francisco Governor Brown makes a laughing to put in the Bay Area for two propositions on next week's ballot turn on the metering lights in Marin County in the coming year good afternoon time Rebecca Corral KCBS news
+p34
+aVradio.com your 24 7 interactive network for news sports and music music from the biggest star in his legend dragons fire crews are on the way so far doesn't seem to be having too much of an impact on traffic through the area for the rest of the Dubliner 38 on the traffic leaders at CVS sunshine around the Bay Area couple of clouds drifting through here and there temperatures sixties and seventies this afternoon it'll be partly cloudy overnight in a few Costa class tomorrow at 10 tomorrow China by the bag traffic and weather together on the 8's on only 740 and FM 1069 KCBS
+p35
+aVpersonality wake up with Carson Daly the right it is already back of solids into the MacArthur maze to watch out for those delays to continue getting across the bridge into the East Bay
+p36
+aVFrancisco legalizes Airbnb rentals in the city punctured by Sutter Pacific Medical Foundation series Gerald is it afternoon including rides Laura Dekker the Bay Bridge Portland earlier stall in the area and in the area of Novato sky 5 good afternoon
+p37
+aVtomorrow partly cloudy skies in the morning Avenged sunshine Bobby afternoon temperatures tomorrow sixties at the coastline trios best personality wake up with Carson Daly 2014 Jetta S 69 dollars per month scary good deal NJ
+p38
+aVdo the roads look at KCBS traffic sponsored by Sutter Pacific Medical Foundation series year old is it afternoon past Idol while the right lane is blocked you are seeing delays release on the College Road we're going to San eBay clear in with overnight lows Lowes in the upper forties and fifties tomorrow partly cloudy skies in the morning Avengers sai Baba afternoon temperatures tomorrow sixties at the coastline 17 surround the bay and Inland traffic and weather together on
+p39
+aVmostly cloudy of the coast in Bay temperature is a little bit cooler than Friday look for some rain at the coast Wayne like
+p40
+aVis well Thrusday partly due mostly cloudy at the coast in Bay temperature is a little bit cooler than Friday look for someone rain likely around the Bay Area and inland as well on friday-saturday mostly cloudy with a chance of showers Andrew temperatures mostly in the sixties it's hit 71 South in Concord 67 and Napa 68th in Oakland size of Rhode Island a study was led by David Valentine UC Santa Barbara professor specializing in was that some of that sell out to the sea floor some of it in the sort of dirty bathtub ring type of
+p41
+aVmusic from the biggest religon is legend dragons personality wake up with Carson Daly south to Loveland R Block traffic backed up on Mission Boulevard southbound is flowing at the scene but you I get off of Mission Boulevard baby take warm springs up the Ottoman get back on their feet up the Auto Mall Parkway you can sit right back on freeway bypass that huge back up again two left lanes block north 880 Pass Fremont Boulevard self propelled the Tesla factory there San Francisco speeds are slowing Skyfire Matisse is it snowing between on northbound 101 between
+p42
+aVis traffic and weather together sponsored by Farmers Insurance here Sheryl a car on fire this hurts lanes traffic backed up on Mission Boulevard southbound is flowing at the scene but you may want to get off of Mission Boulevard baby take warm brings up the Ottoman get back on their feet at the Auto Mall Parkway you can sit right back on the freeway bypass that huge back up again 2 sky 5 Rick Pitino is it snowing between on northbound 101 between two at a time Cesar Schabas slow down going to write you all the way out to the lower deck of the Bay Bridge and then you're good but more money for going to connect to Berkeley eastbound 84 Thursday night becoming cloudy or at least partly cloudy of the coast in Bay temperatures overnight in the upper forties and fifties tomorrow partly cloudy and just like a really good Halloween candies can I delete the only chynas of the gun after October 31st 24 month lease on a
+p43
+aVsunshine from us up most of the Bay Area to Santa Ana but we do have some partly cloudy skies along the coast and Bay temperature in the sixties to low seventies mostly clear tonight becoming cloudy or at least partly cloudy of the coast in Bay temperature overnight in the upper forties and fifties tomorrow partly cloudy in the morning becoming setting the afternoon temperatures very much like to date traffic news sports and music is imagine dragons Auburn live news traffic and weather for the Bay Area
+p44
+asg4
+(g8
+S'\x03\x00\x00\x00\x00\x00\x00\x00'
+p45
+tp46
+Rp47
+(lp48
+V86 recipe down 3 points to 1961 oil than a penny at $81 and gold down to dollars at 12
+p49
+aVstudies have identified is this your different from the corals that people familiar with live extrapolated all from your findings weather Revere or proactive things that might be done in the vicinity but they have more to do with the practices that go into drilling want something like this happens how to really do any significant amount of work David Valentine thank you very much UC Santa Barbara professor specializing
+p50
+aVbird it's impossible to really do any significant amount of work David Valentine thank you very much UC Santa Barbara professor specializing in microbiology and marine science the Bay Area police department Digital ally isn't disclosing which department made the purchase but it includes one of their tank mutant start to the week on Wall Street ahead of a two-day Fed meeting today at 12. 16817 Nasdaq gained two points to 4486 recipe down 3 points to 1961 half percent of $58.74 after the hard disk drive maker top earnings expectations they stay for
+p51
+aVdepartment made the purchase but it includes 110 cameras with docking stations and Whoville connectivity devices storage system the company recently made a big sale to the Mexican Federal Police here's a digital ally rose five and a half 215 dollars and $0.28 on that announcement muted start to the week on Wall Street ahead of a two-day Fed meeting today Hewlett Packard up 1 per cent at $35.30 onthemoney watch Jason Brooks KCBS radio music from the movie starting with his imagine dragons radio.com German engineered car in America scary good deal and just like a really good Halloween candies
+p52
+asg4
+(g8
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p53
+tp54
+Rp55
+(lp56
+Vskating close and then on Thursday things begin to change a few clouds begin to move across our skies late today and by Friday and ask him what is 69 KCBS KCBS news time 151 Chestnut Street just now will today's market looking into the measures that companies are taking to try to gauge the mental stability and then you might really hurt the company called her that way but there's another way that company
+p57
+aVgauge the mental stability of their employees that's right until off and when you think of whether or not someone is a psychopath within groups are on teams and you might really hurt but you don't lift company called her that way what the company on the FBI's warned that you know people who are just condoms at work unhappy is it possible for promotion are increasingly also a cyber threats that means after stealing company date other German company web they're putting intellectual property at Redskins sometimes that cost up to 3 million dollars leading to workplace personality testing talk about that if you would million dollar a year business and what people are trying to do is really figure out you know how likely are you to okay this is that you don't need or Billy be willing to give say that information to a different file system that could put
+p58
+aVyou know how likely are you to do things that are unethical like hell out likely are you to take information that you might have pain in the most and not the most sound way and use it or you know are you going to be messy with forget that there was someone else or if you want to go to start your own business and you take a roster of client data a more technological sense to sew in addition to oray you don't have bread from the screen they're coming into the company some companies are starting to monitor employee activity and compare you know one persons how much stuff that you don't actually need Japan should I give to a competitor or take yourself if you're going elsewhere planning for a huge turnout Rebecca for game 6 of the World Series no it's not have AT&T it's going to be at Civic Center Plaza built
+p59
+aVseparate friend is the screen you when you're coming into the company some companies are starting to monitor employee activity see if you're lurking around next to database or downloading stuff that you don't actually need Japan should I give to a competitor or take the afternoon San Francisco city officials are planning for a huge turnout Rebecca for game 6 of the World Series no it's not a v8 one back offense do the research coming out of UC Santa Barbara where scientists have discovered a giant oily bathtub rain created by the 2010 BP oil rig explosion take a closer look at the ants after 2:20 thanks very much what is fundamentals make it to need the weekend over the next year with investor sentiment likely to follow Amazon shares rebounded after a big
+p60
+aVways to take this personality test and there a lot of companies that are saying you know what we're going to do this
+p61
+asg4
+(g8
+S'\x05\x00\x00\x00\x00\x00\x00\x00'
+p62
+tp63
+Rp64
+(lp65
+Vafford to live in San Francisco not the opposite but the new ordnance does not as many have called for limited today to rally the troops KCBS reporter Dave Padilla tells us the governor highlighted the importance of propositions 1 proposition 1 and part 2 season 2 according to Brown's office proposition 1 would ensure reliable water supply for farms and distance who would create a sizeable rainy day fun during the governor speech in audio speaker kept popping loudly and gets reused the city win reelection Governor Brown dismissed any notion that he would return to Oakland to run for mayor
+p66
+aVhas turned a corner and proposition 2 save water save money California according to Brown's office proposition 1 would ensure reliable water supply popping loudly and get to use that sound to his advantage meanwhile proposition 1 opponents say the water bond well addressed the states water issues and doesn't create enough water monitor the measure say that they like to see the California Legislature come up with a new water bond that removes the money for other projects and its own
+p67
+aVsorry state with highest employment budget cuts and Gwendolyn revenue but he said California has turned a corner
+p68
+asg4
+(g8
+S'\x06\x00\x00\x00\x00\x00\x00\x00'
+p69
+tp70
+Rp71
+(lp72
+Vyour favorite music from the biggest religon is legend dragons personality wake up with Carson Daly music from the movie started with Dragons running 10000 miles per year excess mileage at 3 cents per mile can repeat 2093 approval of above average credit report personality ketamine should your favorite music from the Seas Tim McGraw
+p73
+aVradio.com your 24 7 interactive network for news sports and music radio.com demand shows in destination for CVS events in concert at the AT&T sports an interactive content go to radio.com
+p74
+aVall news 748 FM 1069 KCBS setting up on KCBS landmark the station signed into law by me Radley legalizing short term rentals in San Francisco Governor Brown makes a laughing to put good afternoon time Rebecca Corral KCBS news time 131 now to CBS News CBS the percent of all of the returning travelers return I will be doing an active monitoring program from West Africa even without Ebola symptoms Colonel Steve Warren says they're getting 21 day quarantine in Italy they've been no decision to implement this four-wide and any such decision would be made by the Secretary of Defense reports protesters outside the mayor's office say they're already working on trying to repeal the ordinance the legislation signed in
+p75
+aVradio.com your 24 7 interactive network for news sports and music radio.com 24 7 interactive network for news sports listen to the radio or reason personality wake up with Carson Daly Austin Rivers local national and world news 24 hours a day call the stock market opening bell report 640 am putting them before I 20 20 p.m.
+p76
+aVradio.com your 24 7 interactive network for news sports and music radio.com 24 7 interactive network for news sports personality wake up with Carson Daly music from the movie started with Dragons Porsche is returned to Mill Valley in our new state-of-the-art facility to celebrate our Grand Opening incredible leases on a 2014 Porsche Panamera 4 8 99 per month see the entire Porsche lineup in a spectacular now Medical Foundation how to Livermore west 580 before first grade first reports of a vehicle fires ESPN fire crews are on the way
+p77
+aVradio.com your 24 7 interactive network for news sports and music draw on the radio for reasons to use best personality personality wake up with Carson Daly behind us and has been for a long time so the onus is on us now to squeeze more efficiency out of the cyst
+p78
+aVradio.com your 24 7 interactive network for news sports and music music from the biggest star in his legend dragons radio.com Valley Inn
+p79
+aVradio.com 24 7 interactive network for news sports and music McGraw sports and interactive content radio.com new bench coach the Monterey native attended Stanford players first free big league seasons with the Giants infected
+p80
+aVradio.com your 24 7 interactive network for news sports and music music from the biggest star in his legend dragons new technology to root out any bad apples 84 years were the days 10 big league seasons and ALT and a coach for the Cardinals the last seven seasons most recently bench coach sharks have lost their last four and the Ducks in Wonderland 7 at the twice delayed Blue Bell PA nan China South Julian price was the winner of this morning at age 33 for the first time ever on the to work at 16 under 18 buy 3 pointer dogs after losing in Cleveland yesterday by 10 last night drew Brees five touchdown passes in the same 21 point home
+p81
+aVradio.com your 24 7 interactive network for news sports and music personality wake up with Carson Daly 30 having an impact the Skyway backed up all the way to the 101 interchange heavy traffic on the Nimitz Freeway through Hayward north 880 he's checking out 680 and 24th a dealer change at 6 at a 24 looks great 24 no problems out
+p82
+aVbest personality wake up with Carson Daly music from the movie started with Dragons 24 7 interactive network for news sports and music his legend dragons ESPN sports an interactive content I'm really fortunate to have had ran General Hospital so close Marion Smith delivered for children
+p83
+aVthe sock down 28% since the beginning of 2014 and even then the online retail leader still sports market cap of 132 billion dollars in case you're wondering if it's a good time to jump in parents rights that it's too early he always dreamed of I knew that I wanted to have a midwife that's when I found Marin General Hospital General Hospital is one of the only percenters in the Bay Area to offer 24 7 midwifery care to me
+p84
+aVradio.com your 24 7 interactive network for news sports and music the Radio four reasons to use best personality radio.com 24 7 interactive network for news sports music news on demand shows destination 4 action and it was a very traumatic experience to hell was determined to have her second baby naturally the birth experience she'd always dreamed of I knew that I wanted to have a midwife that's when I found Marin General Hospital Marin General Hospital is one of the only birth centers in the Bay Area to offer 24 7 midwifery care
+p85
+aVat at $1 angle down to dollars at 1229 N Out on the money watch Jason Brooks KCBS radio 24 7 interactive network for news sports and music draw on the radio for recent videos best personality radio.com 24 7 interactive network for news sports and music personality wake up with Carson Daly interactive content 03 to.calm I had my first child by sea section and it was a very traumatic experience to hell was determined to have her second baby naturally Camille work with midwife to write a birth plan in Outlander preferences and when the time came they were a team
+p86
+aVradio.com your 24 7 interactive network for news sports and music personality wake up with Carson Daly Center and Parliament there will start in Berkeley eastbound at FESTAC looks like there in the process of clearing an earlier vehicle accident from the show Francisco East at around the start of the spinner process during the process of putting a sold vehicle from the right lane but it is back to solid the sky way to the 101 interchange and look like north 101 that is starting to slow on the approach to Vermont Street
+p87
+aV410 interactive content with radio. Com I had my first child by sea
+p88
+aVradio.com your 24 7 interactive network for news sports and music music from the biggest religon is legend dragons personality wake up with Carson Daly the sky way to the 101 interchange and look like north 101 that is starting to slow on the approach to Vermont Street highway 237 is looking good between Vallejo and the race tracks in San Jose 101 into
+p89
+aV410 interactive content with radio. Com I had my first child by sea
+p90
+aV410 interactive content with radio. Com I had my first child by sea
+p91
+aVradio.com your 24 7 interactive network for news sports and music
+p92
+aVradio.com your 24 7 interactive network for news sports and music
+p93
+aVradio.com your 24 7 interactive network for news sports and music
+p94
+aVradio.com your 24 7 interactive network for news sports and music
+p95
+aVradio.com your 24 7 interactive network for news sports and music
+p96
+aVpersonality wake up with Carson Daly Francisco East at around the start of the spinner process during the process of putting a sold vehicle from the right lane but it is back to solid
+p97
+aVradio.com your 24 7 interactive network for news sports and music radio.com 24 7 interactive network for news sports best selling German engineered car in America and it's a brand-new Sonnen VW showroom and Jennifer
+p98
+aVradio.com your 24 7 interactive network for news sports and music music from the biggest star in his legend dragons it's a piece of landmark legislation others say they want the ordinance reversed it is called the short term Beatles ordinance Maierle said it will set regulations for Cheryl how's it like those who use the online it allowed us to help my son with his graduate school debt Airbnb hosts must pay taxes register the city and carry insurance with outside the mayor's office of group of protesters said they want to repeal the ordinance fearing Bulow mass conversions of rooms into vacation rentals is the death of San Francisco
+p99
+aVdoes tooth primarily individually owned homes and apartments Nutley says property owners who want to turn existing group of protesters said they want to repeal the ordinance fearing it will allow mass conversions of rooms into vacation rentals this is the death of San Francisco the way I know it San Francisco City Hall Jeffrey Schaub KCBS liquor store sensitive container ship has rescued three people from a disabled 32 foot sailboat adrift nearly 65 Ford Hyundai grace this morning in twenty four seas that ship is continuing to Panama sailboat was on its way Honolulu to Everett Washington when was damaged in the high season 45 mile-per-hour winds the crew activated beacon last night to Coast Guard says there are no plans to salvage the sailboat at this point quesadilla snooze time 2:30 don't waste per month scary good deal and just like a really good Halloween candies
+p100
+aVactivated an emergency beacon last night the Coast Guard says there are no plans to salvage the sailboat at this point KCBS news is imagine dragons new Sonnen VW showroom and Jennifer you can lease a 2014 Jetta S 69 scary good deal and just like a really good Halloween candy 6900 lease to own a gun after
+p101
+aVmusic from the movie starring is legend dragons radio.com best personality wake up with Carson Daly is legend dragons
+p102
+aVradio.com your 24 7 interactive network for news sports and music music from the biggest star in his legend dragons radio.com oily remnants of the BP oil spill we will talk the researchers who discovered a big bathtub ring on the ocean floor Fox Sports how rainy is here with us giant boils preview for sale series RL shortly turned away in the last couple nights and they are on their way to Kansas City AZ rachle Bumgarner said he will remember his first World Series start back in 2010
+p103
+aVnot Monday Night Football coming up it'll be at the Cowboys new stadium in Arlington and Dallas radio.com for 24 7 interactive network for news sports and music music from the biggest star in his legend dragons 69 dollars per month scary good deal and just like a really good Halloween candies answer the gun after October 31st 24 month lease on approved credit through VW credit
+p104
+aVthat day you tube 8 shutout innings in Texas and I like him I never eat Chinese on the mouth I know that something positive going to happen 5 World Series innings in Game 6 tomorrow night how many got Monday Night Football coming up it'll be the Cowboys new stadium in Arlington and Dallas Cowboys to a 6 & 1 start in the Washington Redskins and it's a brand-new Sonnen VW showroom and Jennifer you can lease a 2014 Jetta S gun after October 31st 24 month lease on approved credit through VW credit
+p105
+aVradio.com your 24 7 interactive network for news sports and music personality wake up with Carson Daly
+p106
+aVradio.com your 24 7 interactive network for news sports and music the Radio four reasons to use best personality radio.com 24 7 interactive network for news sports music news on demand shows destination 4 customer level for excess wear and tear my Nexus 20,000 miles of $0.20 per mile what is this price I would like to nest with breast cancer record my chest wall it was as big as it
+p107
+aVradio.com your 24 7 interactive network for news sports and music the Radio four reasons to use best personality radio.com 24 7 interactive network for news sports music news on demand shows destination 4 410 interactive content with radio. Com 6900 early steel gun after October 31st 24 month lease on a VW credit
+p108
+asg4
+(g8
+S'\x07\x00\x00\x00\x00\x00\x00\x00'
+p109
+tp110
+Rp111
+(lp112
+Vsharing service Airbnb this is the first effort in the history of this space sharing
+p113
+asg4
+(g8
+S'\x08\x00\x00\x00\x00\x00\x00\x00'
+p114
+tp115
+Rp116
+(lp117
+Vinto the cafeteria at Marysville Pilchuck high school took out a 40 caliber handgun and shot Seinfeld teens in the Hat the question I hear over and over again is why why did this happen the answer to that question may never be known the tragedy has produced an outpouring of community support on the street in stores houses of worship at the high school like train link fence has become a makeshift memorial to the victims ProFlowers stuff toys in science is growing the shooting is especially bustling to the school's guidance house alarm at roommate who found the students to be really happy smiling kids close knit and loving models of some of the best used car choices for teens under $20,000 find the right vehicle for you
+p118
+aVhas been for a long time so the onus is on us now to squeeze more efficiency out of the system that we have in dollars Melissa Culross KCBS CBS News time 142 is why why did this happen the answer to that question may never be known the tragedy has produced now pouring of community support on the street in stores in houses of worship had to highschool I change
+p119
+asg4
+(g8
+S'\t\x00\x00\x00\x00\x00\x00\x00'
+p120
+tp121
+Rp122
+(lp123
+Vwe speak travel day today both teams working out in the resume tomorrow Giants now thats reader 2 game lead after matters
+p124
+asg4
+(g8
+S'\n\x00\x00\x00\x00\x00\x00\x00'
+p125
+tp126
+Rp127
+(lp128
+Vwith these new guidelines is using experience and data to refine the policies and programs that we were is there an app for different levels they range from no rest a high-risk and those levels of exposure should be considered when deciding whether do I delete someone or not Sabrina Gibbons for CBS News Atlanta I'm coming McCormick at the Pentagon army personnel doesn't troops and their commander the head of US Army Africa but the number could grow by several dozen in the days ahead the latest alleged White House fence jumper left the courtroom hustled out by securities screaming as he went and then who allegedly jump
+p129
+aVwith these new guidelines is using experience and data to refine the policies and programs that we were the latest alleged White House fence jumper left the courtroom hustled out by securities screaming as he went and then who allegedly jump evaluation for Dominic Addison yet today in court he became increasingly agitated and disrupted after a judge review
+p130
+aVCecily flag down the bigger truck I'm timber lane with a tragic hit one collision near San Jose State San Jose CBS News I risk assessments Leda graduated levels of response in managing Ebola is not easy head of the CDC dr. Tom Frieden experience and data to refine the policies and programs that we recommend is there an ounce for different level as for CBS News Atlanta I'm coming McCormick at the Pentagon army personnel returning from Liberia to their base who made the decision out of an abundance of caution none of them has symptoms the kids that they are being checked regularly by men the professionals in it they don't have interaction with other personnel involved only a dozen troops and their command
+p131
+asg4
+(g8
+S'\x0b\x00\x00\x00\x00\x00\x00\x00'
+p132
+tp133
+Rp134
+(lp135
+Vgenerally in the sixties now tonight skies likely to stay mostly clear maybe couple patches of fog along the coastline build overhead temperature topping out the mid-seventies the warmest spot in line by Wednesday probably the peak of the heaters will see something
+p136
+asg4
+(g8
+S'\x0c\x00\x00\x00\x00\x00\x00\x00'
+p137
+tp138
+Rp139
+(lp140
+Vwhat happened to that boy what we found was that some of it fell out to the sea floor some of it dirty bathtub ring type of type of distribution and some of it more as an actual deep in the ocean and when a jet shoots out like that it breaks the oil into tiny little the same sort of thing is just so small that it can't migrate up or down and so that's really
+p141
+aVon the surface itself and not so much being trapped in a water so when when this well blew out if this incredible Jetta oil shooting out at 1 mile deep in the ocean and when a jet shoots out like that straight up or down and so that's really what we're talking about what we're seeing is the faith that will and words of the wise what can be a bit of a waste land down there and coral communities got
+p142
+aVI think most of us why people tend to think of oil as seen on the surface itself and not so much being trapped in a water
+p143
+asg4
+(g8
+S'\r\x00\x00\x00\x00\x00\x00\x00'
+p144
+tp145
+Rp146
+(lp147
+Vin the jumbotron for a massive public viewing at Civic Center Plaza as KCBS Holly Quan told us that's not the
+p148
+asg4
+(g8
+S'\x0e\x00\x00\x00\x00\x00\x00\x00'
+p149
+tp150
+Rp151
+(lp152
+Vthey can rapidly be assessed and if they're found have Ebola effectively isolated and treated the Army is being extra cautious with returning soldiers from West Africa even without a bowel symptoms Colonel Steve in cast Christina Olague is one of a growing number of city residents she says I want to repeal KCBS the elections are next week and Governor Jerry Brown was in Pleasanton today to rally the troops
+p153
+aVmonitor their health on a daily basis so that if they develop symptoms they can rapidly be assessed and
+p154
+as.
